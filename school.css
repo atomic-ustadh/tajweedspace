@@ -10,7 +10,7 @@ html, body {
 
 a {
     text-decoration: none;
-    color: purple;
+    color: black;
 }
 
 pre{
@@ -274,7 +274,7 @@ hr{
 }
 
 /* This Section is for Media Screens - Mobile Devices */
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 600px) {
  
     .navbar {
         width: 100%;
@@ -562,7 +562,7 @@ hr{
         color: black;
         padding-bottom: 10px;
     }
-}
+} */
 /* For Large Tablets, Laptops and Desktops */
 
 
